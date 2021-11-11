@@ -7,7 +7,7 @@
     <artifactId>olingo2</artifactId>
     <name>olingo2</name>
     <description>Sample Olingo 2 Project</description>
-
+	<version>0.0.1-SNAPSHOT</version>
     <parent>
         <groupId>com.baeldung</groupId>
         <artifactId>parent-boot-2</artifactId>
